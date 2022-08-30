@@ -1,10 +1,10 @@
-<h2>Me in few words 🧾</h2>
-<p>Hello! My name is Gabriel Henrique Lopes Carvalho. I am a 20 years old Frontend developer and Computer Science student at the Federal University of Campina Grande, living in Campina Grande, Paraíba, Brazil. I love music and my dearest hobbies are philosophy, technology, astronomy, games and basketball. I'm always ready for some good conversation about whatever comes on mind!</p>
+<h2>Greetings!</h2>
+<p>My name is Gabriel Henrique Lopes Carvalho. I am a 20 years old Frontend developer and Computer Science student at the Federal University of Campina Grande, living in Campina Grande, Paraíba, Brazil. I love music and my dearest hobbies are philosophy, technology, astronomy, games and basketball. I'm always ready for some good conversation about whatever comes on mind!</p>
 
 <div align="center">
   <a href="https://github.com/Gabrielhlc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielhlc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielhlc&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielhlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielhlc&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
