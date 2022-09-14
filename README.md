@@ -1,5 +1,5 @@
 <h2>Greetings!</h2>
-<p>My name is Gabriel Henrique Lopes Carvalho. I am a 20 years old Frontend developer and Computer Science student at the Federal University of Campina Grande, living in Campina Grande, Paraíba, Brazil. I love music and my dearest hobbies are philosophy, technology, astronomy, games and basketball. I'm always ready for some good conversation about whatever comes on mind!</p>
+<p>My name is Gabriel Henrique Lopes Carvalho. I am a 20 years old Frontend developer and Computer Science student at the Federal University of Campina Grande, currently living in Campina Grande, Paraíba, Brazil. I love music and my dearest hobbies are philosophy, technology, astronomy, games and basketball. I'm always ready for some good conversation about whatever comes on mind!</p>
 
 <div align="center">
   <a href="https://github.com/Gabrielhlc">
