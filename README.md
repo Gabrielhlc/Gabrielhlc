@@ -1,5 +1,6 @@
 <h2>Greetings!</h2>
 <p>My name is Gabriel Henrique Lopes Carvalho. I am a 21 years old Frontend developer and Computer Science student at the Federal University of Campina Grande, currently living in Campina Grande, Paraíba, Brazil. I love music and my dearest hobbies are philosophy, technology, astronomy, games and basketball. I'm always ready for some good conversation about whatever comes in mind!</p>
+<p>Check out my portfolio page: https://gabrielcarvalhoportfolio.netlify.app</p>
 
 <div align="center">
   <a href="https://github.com/Gabrielhlc">
