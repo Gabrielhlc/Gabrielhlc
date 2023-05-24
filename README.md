@@ -24,10 +24,10 @@
 
 <div>
   <h2>Contact 📱</h2> 
-  <a href="https://www.linkedin.com/in/gabriel-carvalho-54790b21b/">
+  <a href="https://www.linkedin.com/in/gabriel-carvalho-54790b21b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/gabrielhenlc">
+  <a href="https://instagram.com/gabrielhenlc" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href = "mailto:gabrielhenlc@gmail.com">
